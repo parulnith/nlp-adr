@@ -1,3 +1,3 @@
-# Natural Language Processing for Adverse Drug Reaction mining
+# NLP for Adverse Drug Reaction mining
 
 
