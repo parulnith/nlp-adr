@@ -43,7 +43,7 @@ $ python main.py
 Sarker A, Gonzalez G; Portable Automatic Text Classification for Adverse Drug Reaction Detection via Multi-corpus Training, Journal of Biomedical Informatics, 2015 Feb;53:196-207. doi: 10.1016/j.jbi.2014.11.002. Epub 2014 Nov 8. (resources for feature extraction for this task can be found at: http://diego.asu.edu/Publications/ADRClassify.html)
 
 D. Tang, F. Wei, N. Yang, M. Zhou, T. Liu, and B. Qin. Learning sentiment-specific word embedding for twitter sentiment classification. In Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 1555–1565, Baltimore, Maryland, June2014. Association for Computational Linguistics. URL
-1429, 2011.
+1429, 2014.
 
 
 
