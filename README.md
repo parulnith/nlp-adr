@@ -6,7 +6,7 @@ Exploring different features for ADR mining (classify wheter a tweet contains AD
 Code: 
 - LSA
 - paragraph2vec
-- CNN for sentence classification
+- CNN as features extractor
 - ADR lexicon score
 - Sentiment Lexicon scores
 - negation handling
