@@ -16,7 +16,7 @@ Data :
 - sentiment lexicon : https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 - ADR lexicon by [Sarker](#references)  : http://diego.asu.edu/downloads/publications/ADRMine/ADR_lexicon.tsv
 - pre-trained word embeddings by [Sarker](#references) : http://diego.asu.edu/Publications/ADRMine.html
-- pre-trained SSWE by [Tang](#references) : http://ir.hit.edu.cn/~dytang/
+- pre-trained SSWE by [Tang](#references) : https://www.microsoft.com/en-us/research/people/dutang/
 
 This repo contains as well a report for the experiments and an example of running the code.
 
